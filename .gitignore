@@ -3,3 +3,6 @@
 ################################################################################
 
 /CircuitBreakerExperiment/bin/Debug
+/CircuitBreakerExperiment/obj/Debug
+/TestHarness/bin/Debug
+/TestHarness/obj/Debug
